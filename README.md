@@ -39,3 +39,12 @@ in this game you can:
 ### Sound:
 * Health damage sound: https://freesound.org/people/InspectorJ/sounds/458584/
 * Shield damage sound: https://freesound.org/people/unfa/sounds/193429/
+* Button sound effects obtained from https://www.zapsplat.com
+### Music
+
+* "Steamtech Mayhem"
+* "Dark Techno City"
+* "Factory on Mercury"
+by Eric Matyas
+
+https://soundimage.org/
