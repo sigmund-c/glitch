@@ -34,3 +34,18 @@ in this game you can:
 
 *HUD concept, placeholder enemies and weapons*
 ![HUD concept, placeholder enemies and weapons](docs/hudConcept.png)
+
+## ASSETS USED:
+### Sound:
+* Health damage sound: https://freesound.org/people/InspectorJ/sounds/458584/
+* Shield damage sound: https://freesound.org/people/unfa/sounds/193429/
+* Button sound effects obtained from https://www.zapsplat.com
+### Music:
+
+* "Steamtech Mayhem"
+* "Dark Techno City"
+* "Factory on Mercury"
+
+By Eric Matyas
+
+https://soundimage.org/
