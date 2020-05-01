@@ -6,6 +6,9 @@ you have become a glitched out AI program and have escaped the wrath of the evil
 it has stripped the world of graphics in its quest for efficient world dominance. so, it is up to you, the only bot that can defy NULL, to bring colour back into the world and save it from NULL...
 or will you ¿¿"
 
+### watch the trailer:
+[![YouTube link](https://img.youtube.com/vi/bDl_Z4oM96s/0.jpg)](https://www.youtube.com/watch?v=bDl_Z4oM96s)
+
 ## level design
 - levels will consist of puzzles and enemies that require you to switch the **advanced vision** (name pending) on and off to your best advantage.
 - examples: can see certain doors and enemies with **advanced vision** on
